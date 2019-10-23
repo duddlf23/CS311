@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510509390 source:c:\users\영일\desktop\학교\3학년\가을\cs311 전산기조직\플젝\플젝1\새 폴더\pj1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<string>
+	<string.h>
+	<iostream>
+
